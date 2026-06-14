@@ -126,7 +126,7 @@ https://docs.google.com/document/d/1x8HilXy7nU3rUGGUEgGUdnXZ03jsAeuMp-nSNGxTjQg/
 
 https://docs.google.com/presentation/d/1SLbmoeFkqSJe3neg8yprDXtUK5tU2OwHJAvJX67Y44s/edit?usp=sharing
 
-## 🎬 Vídeo de Defesa
+## 🎬 Vídeo
 
 https://youtu.be/icdzzFj7OpQ
 
