@@ -124,7 +124,7 @@ https://docs.google.com/document/d/1x8HilXy7nU3rUGGUEgGUdnXZ03jsAeuMp-nSNGxTjQg/
 
 ## 📊 Apresentação Visual
 
-https://docs.google.com/presentation/d/1SLbmoeFkqSJe3ne_g8yprDXtUK5tU2OwHJAvJX67Y44s/edit?usp=sharing
+https://docs.google.com/presentation/d/1SLbmoeFkqSJe3neg8yprDXtUK5tU2OwHJAvJX67Y44s/edit?usp=sharing
 
 ## 🎬 Vídeo de Defesa
 
