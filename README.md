@@ -1,48 +1,143 @@
-# Relatório de Implantação: PortfolioHUB + IA Gemini
+# 🚀 Relatório de Implantação: PortfolioHUB + IA Gemini
 
-Este repositório unifica a documentação e todos os artefatos desenvolvidos ao longo das etapas de implantação do **PortfolioHUB**. O projeto integra ferramentas do Google Workspace, o ecossistema de páginas estáticas e o controle de versão via Git/GitHub, utilizando a IA Google Gemini como assistente de arquitetura e segurança DevSecOps.
+Este repositório reúne toda a documentação e os artefatos desenvolvidos durante as etapas de implantação do **PortfolioHUB**, integrando ferramentas do Google Workspace, GitHub e GitHub Pages, com suporte da IA **Google Gemini** como assistente de arquitetura, validação e segurança DevSecOps.
+
+---
 
 ## 👤 Identificação do Estudante
-* **Nome:** Hiago Henrique de Santana Soares[cite: 6]
-* **RA:** 22600582[cite: 6]
-* **Turma:** C[cite: 6]
-* **Curso:** Engenharia de Software (Vespertino)[cite: 6]
+
+* **Nome:** Hiago Henrique de Santana Soares
+* **RA:** 22600582
+* **Turma:** C
+* **Curso:** Engenharia de Software (Vespertino)
+* **Data de Entrega:** 14/06/2026
 
 ---
 
-## 🚀 Ecossistema de Links Consolidados
+## 🌐 Ecossistema de Links Consolidados
 
-A tabela abaixo reúne todos os links oficiais extraídos dos relatórios de entrega do projeto:
-
-| Componente / Entregável | Descrição do Artefato | Link de Acesso |
-| :--- | :--- | :--- |
-| **Plataforma PortfolioHUB (Google Sites)** | Interface principal e centralizada do portfólio | [Acessar PortfolioHUB](https://sites.google.com/view/hiago-henrique/p%C3%A1gina-inicial)[cite: 6] |
-| **Portfólio Acadêmico (GitHub Pages)** | Página estática com os projetos originais | [Acessar GitHub Pages](https://hiagosoares-hash.github.io/hiagosoares-hash/ProjetosAcademicos/portfolio/)[cite: 7] |
-| **Repositório Oficial (GitHub)** | Código-fonte e versionamento do ecossistema | [Acessar Perfil GitHub](https://github.com/hiagosoares-hash)[cite: 7] |
-| **Vídeo de Apresentação Intermediaria (YouTube)** | Video entrega intermediaria | [Assistir Vídeo Intermediaria](https://youtu.be/icdzzFj7OpQ)[cite: 6] |
-| **Vídeo de Apresentação Inicial (YouTube)** | Demonstração e histórico do desenvolvimento | [Assistir Vídeo Inicial](https://youtu.be/ryqp-GYm_N4)[cite: 7] |
-| **Currículo Profissional (Google Docs)** | Detalhamento de formação, habilidades e conquistas | [Visualizar Currículo](https://docs.google.com/document/d/1x8HilXy7nU3rUGGUEgGUdnXZ03jsAeuMp-nSNGxTjQg/edit?usp=sharing)[cite: 6] |
-| **Apresentação Visual (Google Slides)** | Portfólio estético e visual de competências | [Visualizar Slides](https://docs.google.com/presentation/d/1SLbmoeFkqSJe3ne_g8yprDXtUK5tU2OwHJAvJX67Y44s/edit?usp=sharing)[cite: 6] |
-| **Perfil Profissional (LinkedIn)** | Conexão com o mercado e rede de contatos | [Visualizar LinkedIn](https://www.linkedin.com/in/hiago-henrique-5921882b0)[cite: 7] |
+| Componente                   | Descrição                         | Link                                                                                      |
+| ---------------------------- | --------------------------------- | ----------------------------------------------------------------------------------------- |
+| PortfolioHUB (Google Sites)  | Plataforma principal do portfólio | https://sites.google.com/view/hiago-henrique/p%C3%A1gina-inicial                          |
+| GitHub Pages                 | Portfólio acadêmico publicado     | https://hiagosoares-hash.github.io/hiagosoares-hash/ProjetosAcademicos/portfolio/         |
+| GitHub                       | Repositório e versionamento       | https://github.com/hiagosoares-hash                                                       |
+| LinkedIn                     | Perfil profissional               | https://www.linkedin.com/in/hiago-henrique-5921882b0                                      |
+| Currículo (Google Docs)      | Currículo profissional integrado  | https://docs.google.com/document/d/1x8HilXy7nU3rUGGUEgGUdnXZ03jsAeuMp-nSNGxTjQg/edit      |
+| Apresentação (Google Slides) | Portfólio visual e acadêmico      | https://docs.google.com/presentation/d/1SLbmoeFkqSJe3ne_g8yprDXtUK5tU2OwHJAvJX67Y44s/edit |
+| Vídeo Inicial                | Demonstração do desenvolvimento   | https://youtu.be/ryqp-GYm_N4                                                              |
+| Vídeo Final                  | Defesa e apresentação final       | https://youtu.be/icdzzFj7OpQ                                                              |
 
 ---
 
-## 🛠️ Estrutura Mínima da Implantação
+## 📋 1. Planejamento da Implantação
 
-### 1. Planejamento da Implantação
-Criação do plano de ação detalhado para integrar o ecossistema local ao ambiente em nuvem. Configuração e uso da IA Google Gemini para guiar a trilha de publicação, definindo o escopo e validando o cronograma de entrega do projeto.
+### Objetivo
 
-### 2. Configuração Inicial e Integração com GitHub
-Configuração do ambiente Git dedicado sob o usuário `hiagosoares-hash`[cite: 1, 7]. Integração bem-sucedida das ferramentas de armazenamento remoto no PortfolioHUB, permitindo o agrupamento de projetos acadêmicos e corporativos em um repositório centralizado[cite: 1].
+Estruturar a implantação e migração das informações acadêmicas e profissionais para um ambiente centralizado, seguro e acessível através do PortfolioHUB.
 
-### 3. Gestão de Usuários e Segurança
-Definição de regras de acesso e governança de identidades[cite: 1]. Utilização do Google Gemini para estabelecer políticas de segurança cibernética (como o uso de links do Workspace em modo estrito de leitura e a blindagem contra exposição de dados sensíveis), garantindo total conformidade com as melhores práticas de mercado[cite: 1, 6].
+### Utilização da IA Google Gemini
 
-### 4. Compartilhamento e Controle de Acesso com GitHub
-Vinculação completa do repositório ao PortfolioHUB, habilitando o rastreamento de alterações e o compartilhamento seguro do código-fonte[cite: 1]. Documentação das práticas colaborativas para auditoria de professores e recrutadores[cite: 1, 3].
+O Google Gemini foi utilizado como ferramenta de apoio para:
 
-### 5. Finalização da Integração e Testes
-Homologação final do ecossistema com o suporte do Gemini[cite: 1]. Foram realizados testes de responsividade, integridade de hiperlinks e velocidade de carregamento, preparando a plataforma PortfolioHUB para o lançamento oficial em ambiente real de produção[cite: 1].
+* Planejamento da arquitetura do projeto;
+* Revisão das configurações de compartilhamento;
+* Validação de boas práticas de segurança;
+* Verificação da exposição de dados públicos;
+* Apoio na elaboração da documentação técnica;
+* Orientação em práticas DevSecOps.
 
 ---
-*Trabalho desenvolvido como requisito para a Entrega Final do Desafio PortfolioHUB + IA GEMINI.*[cite: 1]
+
+## ⚙️ 2. Configuração Inicial e Integração com GitHub
+
+Foi configurado um ambiente de versionamento utilizando o usuário GitHub **hiagosoares-hash**, permitindo o controle das alterações realizadas durante o desenvolvimento.
+
+A integração entre GitHub, GitHub Pages e PortfolioHUB possibilitou a centralização de:
+
+* Projetos acadêmicos;
+* Currículo profissional;
+* Apresentações;
+* Documentação técnica;
+* Conteúdos de demonstração.
+
+Essa integração garantiu rastreabilidade, organização e fácil acesso aos materiais do projeto.
+
+---
+
+## 🔒 3. Gestão de Usuários e Segurança
+
+### Controle de Acesso
+
+Foram implementadas políticas de acesso para garantir a integridade dos documentos:
+
+* Administrador com permissões totais;
+* Usuários externos com acesso apenas para visualização;
+* Restrição de edição pública;
+* Proteção contra alterações não autorizadas.
+
+### Governança e Segurança
+
+Com o auxílio do Google Gemini foram definidas práticas relacionadas a:
+
+* Governança de identidades;
+* Compartilhamento seguro de arquivos;
+* Proteção de dados sensíveis;
+* Monitoramento de permissões;
+* Conformidade com boas práticas de segurança da informação.
+
+---
+
+## 🔄 4. Compartilhamento e Controle de Acesso com GitHub
+
+O repositório GitHub foi vinculado ao ecossistema PortfolioHUB para permitir:
+
+* Controle de versões;
+* Histórico de alterações;
+* Compartilhamento seguro do código-fonte;
+* Auditoria acadêmica e profissional.
+
+A documentação produzida facilita avaliações por professores, recrutadores e demais interessados no projeto.
+
+---
+
+## ✅ 5. Finalização da Integração e Testes
+
+### Homologação
+
+Após a conclusão da integração, foram executados testes para validação da solução:
+
+* Testes de responsividade;
+* Verificação de hiperlinks;
+* Validação de permissões de acesso;
+* Testes de carregamento;
+* Conferência da integridade dos documentos.
+
+### Implantação em Produção
+
+Com os testes concluídos, o PortfolioHUB foi disponibilizado em ambiente real de produção, permanecendo totalmente funcional e acessível.
+
+---
+
+## 🎥 6. Revisão Final e Apresentação
+
+Como etapa final do projeto, foi produzida uma apresentação audiovisual demonstrando:
+
+* O processo de implantação;
+* As ferramentas utilizadas;
+* A integração dos serviços;
+* As práticas de segurança aplicadas;
+* O funcionamento completo do ecossistema PortfolioHUB.
+
+---
+
+## 🏆 Conclusão
+
+O projeto permitiu consolidar conhecimentos de desenvolvimento web, versionamento, publicação de conteúdo, integração de serviços em nuvem e segurança da informação.
+
+A utilização do Google Gemini como ferramenta de apoio contribuiu para a validação das etapas de implantação e para a aplicação de boas práticas durante todo o processo, resultando em uma plataforma profissional, organizada e acessível para apresentação acadêmica e profissional.
+
+---
+
+**Desenvolvido por:** Hiago Henrique de Santana Soares
+**Curso:** Engenharia de Software – UDF
+**Ano:** 2026
