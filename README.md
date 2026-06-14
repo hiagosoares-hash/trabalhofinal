@@ -26,7 +26,7 @@ Este repositório reúne toda a documentação e os artefatos desenvolvidos dura
 | Apresentação (Google Slides) | Portfólio visual e acadêmico      | https://docs.google.com/presentation/d/1SLbmoeFkqSJe3ne_g8yprDXtUK5tU2OwHJAvJX67Y44s/edit |
 | Vídeo Inicial                | Demonstração do desenvolvimento   | https://youtu.be/ryqp-GYm_N4                                                              |
 | Vídeo Intermediaria          | Apresentação intermediaria        | https://youtu.be/icdzzFj7OpQ                                                              |
-| Vídeo Final                  | Defesa e apresentação final       | https://youtu.be/icdzzFj7OpQ                                                              |
+| Vídeo Final                  | Defesa e apresentação final       |                                                                                           |
 
 ---
 
