@@ -23,7 +23,7 @@ Este repositório reúne toda a documentação e os artefatos desenvolvidos dura
 | GitHub                       | Repositório e versionamento       | https://github.com/hiagosoares-hash                                                       |
 | LinkedIn                     | Perfil profissional               | https://www.linkedin.com/in/hiago-henrique-5921882b0                                      |
 | Currículo (Google Docs)      | Currículo profissional integrado  | https://docs.google.com/document/d/1x8HilXy7nU3rUGGUEgGUdnXZ03jsAeuMp-nSNGxTjQg/edit      |
-| Apresentação (Google Slides) | Portfólio visual e acadêmico      | https://docs.google.com/presentation/d/1SLbmoeFkqSJe3ne_g8yprDXtUK5tU2OwHJAvJX67Y44s/edit |
+| Apresentação (Google Slides) | Portfólio visual e acadêmico      | https://docs.google.com/presentation/d/1SLbmoeFkqSJe3neg8yprDXtUK5tU2OwHJAvJX67Y44s/edit?usp=sharing|
 | Vídeo Inicial                | Demonstração do desenvolvimento   | https://youtu.be/ryqp-GYm_N4                                                              |
 | Vídeo Intermediaria          | Apresentação intermediaria        | https://youtu.be/icdzzFj7OpQ                                                              |
 | Vídeo Final                  | Defesa e apresentação final       |                                                                                           |
