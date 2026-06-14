@@ -19,7 +19,7 @@ A tabela abaixo reúne todos os links oficiais extraídos dos relatórios de ent
 | **Plataforma PortfolioHUB (Google Sites)** | Interface principal e centralizada do portfólio | [Acessar PortfolioHUB](https://sites.google.com/view/hiago-henrique/p%C3%A1gina-inicial)[cite: 6] |
 | **Portfólio Acadêmico (GitHub Pages)** | Página estática com os projetos originais | [Acessar GitHub Pages](https://hiagosoares-hash.github.io/hiagosoares-hash/ProjetosAcademicos/portfolio/)[cite: 7] |
 | **Repositório Oficial (GitHub)** | Código-fonte e versionamento do ecossistema | [Acessar Perfil GitHub](https://github.com/hiagosoares-hash)[cite: 7] |
-| **Vídeo de Apresentação Final (YouTube)** | Defesa audiovisual das etapas de implantação | [Assistir Vídeo Final](https://youtu.be/icdzzFj7OpQ)[cite: 6] |
+| **Vídeo de Apresentação Intermediaria (YouTube)** | Video entrega intermediaria | [Assistir Vídeo Intermediaria](https://youtu.be/icdzzFj7OpQ)[cite: 6] |
 | **Vídeo de Apresentação Inicial (YouTube)** | Demonstração e histórico do desenvolvimento | [Assistir Vídeo Inicial](https://youtu.be/ryqp-GYm_N4)[cite: 7] |
 | **Currículo Profissional (Google Docs)** | Detalhamento de formação, habilidades e conquistas | [Visualizar Currículo](https://docs.google.com/document/d/1x8HilXy7nU3rUGGUEgGUdnXZ03jsAeuMp-nSNGxTjQg/edit?usp=sharing)[cite: 6] |
 | **Apresentação Visual (Google Slides)** | Portfólio estético e visual de competências | [Visualizar Slides](https://docs.google.com/presentation/d/1SLbmoeFkqSJe3ne_g8yprDXtUK5tU2OwHJAvJX67Y44s/edit?usp=sharing)[cite: 6] |
