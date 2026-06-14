@@ -1,6 +1,6 @@
 # 🚀 Relatório de Implantação: PortfolioHUB + IA Gemini
 
-Este repositório reúne toda a documentação e os artefatos desenvolvidos durante as etapas de implantação do **PortfolioHUB**, integrando ferramentas do Google Workspace, GitHub e GitHub Pages, com suporte da IA **Google Gemini** como assistente de arquitetura, validação e segurança DevSecOps.
+Este repositório reúne toda a documentação e os artefatoss desenvolvidos durante as etapas de implantação do **PortfolioHUB**, integrando ferramentas do Google Workspace, GitHub e GitHub Pages, com suporte da IA **Google Gemini** como assistente de arquitetura, validação e segurança DevSecOps.
 
 ---
 
@@ -26,7 +26,7 @@ Este repositório reúne toda a documentação e os artefatos desenvolvidos dura
 | Apresentação (Google Slides) | Portfólio visual e acadêmico      | https://docs.google.com/presentation/d/1SLbmoeFkqSJe3neg8yprDXtUK5tU2OwHJAvJX67Y44s/edit?usp=sharing|
 | Vídeo Inicial                | Demonstração do desenvolvimento   | https://youtu.be/ryqp-GYm_N4                                                              |
 | Vídeo Intermediaria          | Apresentação intermediaria        | https://youtu.be/icdzzFj7OpQ                                                              |
-| Vídeo Final                  | Defesa e apresentação final       |                                                                                           |
+| Vídeo Final                  | Defesa e apresentação final       |                https://youtu.be/wA5gNHb-kDk                                                                           |
 
 ---
 
